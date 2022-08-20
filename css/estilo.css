@@ -1,5 +1,5 @@
 body{
-    background-color:#FFE4E1;
+    background-color:#FA8072;
 }
 
 img{
@@ -14,3 +14,13 @@ figure{
     width: 80%;
     margin: auto;
 }
+h1,h2{
+    text-align: center;
+    font-family: 'Cousine', monospace;
+}
+p{
+    font-family: 'Cutive Mono', monospace;
+    font-size: 1.2em;
+    text-align: justify;
+}
+
