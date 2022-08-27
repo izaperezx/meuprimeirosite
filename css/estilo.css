@@ -24,3 +24,13 @@ p{
     text-align: justify;
 }
 
+.centro {
+    align-items: center;
+    text-align: center;
+    width: 50%;
+    float: left;
+}
+footer{
+
+    clear: both;
+}
